@@ -1,0 +1,18 @@
+.container {
+	display: flex;
+	justify-content: space-between;
+	border: 5px solid red;
+}
+.left-box {
+	width: 45%;
+}
+.main-content {
+	background: blue;
+}
+.other-content {
+	background: purple;
+}
+.right-box {
+	width: 45%;
+	background: green;
+}
